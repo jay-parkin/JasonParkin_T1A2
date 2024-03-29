@@ -14,6 +14,7 @@ But hey, I'm not just passionate about code. I believe there's more to me than j
 
 - Published Portfolio - [https://www.jasonparkin.online/](https://www.jasonparkin.online/)
 - GitHub Repository - [https://github.com/jay-parkin/Portfolio](https://github.com/jay-parkin/Portfolio)
+- Portfolio Prensentation - <b>Coming Soon</b>
 
 </br>
 
@@ -100,6 +101,7 @@ So, my portfolio is all about making their job easier by giving them a crystal c
 </br>
 
 ## Tech Stack
+
 The following tools were used in the process of planning and developing.
 
 - <b>GitHub</b>: Version control.
